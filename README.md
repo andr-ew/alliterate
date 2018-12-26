@@ -1,3 +1,3 @@
-# synecdoche
+# alliterate
 
 ![ss](ss.png)
