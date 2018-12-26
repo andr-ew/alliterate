@@ -1,0 +1,3 @@
+# synecdoche
+
+![ss](ss.png)
